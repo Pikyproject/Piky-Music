@@ -25,7 +25,7 @@
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/Pikyproject/Piky-Music
-$ cd Piky-music
+$ cd GeezProject
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
