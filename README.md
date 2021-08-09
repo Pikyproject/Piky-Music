@@ -1,8 +1,8 @@
-<h1 align="centre">🎵 Geez Music Projects 🎵</h1>
+<h1 align="centre">🎵 PIKY MUSIC 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@Pikymusikplay_bot](https://t.me/Pikymusicplay_bot)
 
 <p align="center">
   <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
